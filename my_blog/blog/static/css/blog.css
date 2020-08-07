@@ -32,6 +32,32 @@ animation:hue 1 0000ms infinite linear;
 
 }
 
+
+.postdate{
+   text-align: center;
+}
+
+.posttitle{
+   font-family: 'Russo One',sans-serif;
+font-size: 3em;
+text-align: center;
+}
+
+.postcontent{
+
+   font-family: 'Montserrats';
+   font-size: 1.5em;
+}
+
+.btn-comment{
+   position: absolute;
+   right: 0px;
+}
+
+
+
+
+/*color change*/ 
 @keyframes spinify {
 
   0%{
